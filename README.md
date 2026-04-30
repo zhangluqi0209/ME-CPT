@@ -1,3 +1,5 @@
+#Repository URL Updated
+https://github.com/WHU-USI3DV/ME-CPT
 # ME-CPT
 ME-CPT implements a 3D semantic change detection network based on multi-temporal point clouds. The proposed method is evaluated on four 3D change detection datasets.
 ![image](https://github.com/zhangluqi0209/ME-CPT/blob/main/Imgs/experiments.png)
